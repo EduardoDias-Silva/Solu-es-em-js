@@ -1,0 +1,2 @@
+function calcArea(base, height) {
+}
